@@ -1,4 +1,4 @@
-package unit_01;
+package Unit_01;
 
 import java.util.Scanner;
 /* Problem Statement:

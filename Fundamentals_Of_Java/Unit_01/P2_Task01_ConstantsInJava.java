@@ -1,4 +1,4 @@
-package unit_01;
+package Unit_01;
 
 public class P2_Task01_ConstantsInJava {
 	private static final double Pi=3.14;

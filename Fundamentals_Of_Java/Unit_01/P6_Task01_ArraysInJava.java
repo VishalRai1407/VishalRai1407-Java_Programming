@@ -1,4 +1,4 @@
-package unit_01;
+package Unit_01;
 
 /*
  * Normally an array is a collection of similar type of elements which has contiguous memory location
